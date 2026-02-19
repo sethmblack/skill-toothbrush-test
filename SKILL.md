@@ -3,7 +3,7 @@ name: toothbrush-test
 description: Evaluate products, features, or acquisitions by testing whether they will be used daily by billions and genuinely improve lives, using Larry Page's prioritization framework that values usefulness over financial metrics.
 license: MIT
 metadata:
-  version: 1.0.5207
+  version: 1.0.5208
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
